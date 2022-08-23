@@ -1,15 +1,15 @@
 # EDA-on-on_the_aspiring_minds_employability_outcomes_2015_data_set.
-#About Dataset
+# About Dataset
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
 Fields The dataset contains 15 columns Target filed: Income -- The income is divide into two classes: <=50K and >50K Number of attributes: 15 -- These are the demographics and other features to describe a person
 
 We can explore the possibility in predicting income level based on the individual’s personal information.
 
-#Objective
+# Objective
 Objective of this product is to perform EDA, find the missing values if any, find the outliers, and lastly build various Machine Learning models considering ‘income’ as target variable and compare the performance of each of the ML Model.
 
-#steps to be followed:
+# steps to be followed:
 Step - 1 : Introduction -> Give a detailed data description and objective
 
 Step - 2 : Import the data and perform basic pandas operations
